@@ -1,1 +1,1 @@
-# Disney-Prime Clone Reactjs
+# Disney-Prime UI Clone Reactjs
